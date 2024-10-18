@@ -9,3 +9,5 @@ terceira alteração depois da criação da branch "caue"
 Primeira alteração na branch "caue"
 segunda alteração na branch "caue"
 terceira alteração na branch "caue"
+
+ALTERAÇÃO PÓS MERGE
