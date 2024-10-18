@@ -5,3 +5,4 @@ Ultima linha antes da criação da outra branch
 
 Primeira alteração depois da criação da branch "caue"
 segunda alteração depois da criação da branch "caue"
+terceira alteração depois da criação da branch "caue"
