@@ -2,3 +2,5 @@ Primeira linha do arquivo
 segunda linha do arquivo
 terceira linha do arquivo
 Ultima linha antes da criação da outra branch
+
+Primeira alteração depois da criação da branch "caue"
